@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLWithChart", "SQLWithChart.csproj", "{458298CB-BA74-40E8-88CF-E8ED7CD6B927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458298CB-BA74-40E8-88CF-E8ED7CD6B927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458298CB-BA74-40E8-88CF-E8ED7CD6B927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458298CB-BA74-40E8-88CF-E8ED7CD6B927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458298CB-BA74-40E8-88CF-E8ED7CD6B927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4867E04D-34CB-458F-B28D-25E63B762D16}
+	EndGlobalSection
+EndGlobal
