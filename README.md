@@ -71,4 +71,10 @@ public class ViewModel
 
 ![SQL DataBinding to WPF SfChart](https://user-images.githubusercontent.com/53489303/200743338-52fee1f9-d723-46b2-87ae-81da3b6e2067.png)
 
-KB article - [How to bind the SQL Database to WPF Charts?](https://www.syncfusion.com/kb/11595/how-to-bind-the-sql-database-to-wpf-charts)
+## Troubleshooting
+
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [How to bind the SQL Database to WPF Charts?](https://www.syncfusion.com/kb/11595/how-to-bind-the-sql-database-to-wpf-charts)
