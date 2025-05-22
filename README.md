@@ -77,4 +77,4 @@ public class ViewModel
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [How to bind the SQL Database to WPF Charts?](https://www.syncfusion.com/kb/11595/how-to-bind-the-sql-database-to-wpf-charts)
+For more details, refer to the KB on [How to bind the SQL Database to WPF Charts](https://www.syncfusion.com/kb/11595/how-to-bind-the-sql-database-to-wpf-charts)
